@@ -1,66 +1,66 @@
-<!--# 👋 Hi, I'm Badamasuiy
+# 👋 Hi, I'm Badamasuiy
 
-I'm a full-stack web developer who enjoys turning ideas into real, usable products. I build modern web applications with a focus on clean architecture, performance, and user experience.
+I'm a full-stack web developer focused on building scalable, user-friendly web applications. I enjoy turning ideas into real products that people can actually use.
 
 ---
 
 ## 🚀 What I Do
 
-I develop full-stack applications using modern tools, combining responsive frontend interfaces with efficient and scalable backend systems.
-My goal is simple: build products that are reliable, maintainable, and actually solve real problems.
+I build modern full-stack applications using clean architecture, efficient APIs, and responsive UI. My focus is on performance, maintainability, and real-world usability.
 
 ---
 
-## 🔭 Tech Stack
+## 🛠 Tech Stack
 
 **Frontend**
-
-* React.js
-* Next.js
-* Tailwind CSS
+- React.js
+- Next.js
+- Tailwind CSS
 
 **Backend**
-
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 **Database**
-
-* MongoDB
-* PostgreSQL
+- MongoDB
+- PostgreSQL
 
 ---
 
 ## 📌 Featured Projects
 
-
-### 📊 SaaS Dashboard
-
+### 📊 SaaS Dashboard (In Progress)
 A scalable dashboard for managing users, analytics, and workflows.
 
-**Tech:** React.js, TypeScript
-🔗 GitHub: (add link)
+**Tech:** React, TypeScript  
+🔗 GitHub: 
+
+---
+
+### 💬 Real-Time Chat App (Planned)
+A real-time messaging app with WebSocket communication.
+
+**Tech:** React, Node.js, Socket.io  
+🔗 GitHub: 
 
 ---
 
 ## 🧠 What I Focus On
 
-* Writing clean, maintainable code
-* Building scalable backend systems
-* Creating responsive and intuitive user interfaces
-* Delivering real-world solutions
+- Writing clean, maintainable code
+- Building scalable backend systems
+- Creating responsive and intuitive user interfaces
+- Solving real-world problems with technology
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-* Email: rashbadams@gmail.com
-* LinkedIn: http://www.linkedin.com/in/badamasuiy
+- Email: rashbadams@gmail.com
+- LinkedIn: http://www.linkedin.com/in/badamasuiy
 
 ---
 
 ## 💼 Open to Work
 
 I'm currently open to remote full-stack developer roles and collaborations.
-
--->
